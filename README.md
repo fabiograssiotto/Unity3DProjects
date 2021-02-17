@@ -1,2 +1,2 @@
 # Unity3DProjects
-Projects for my daughter
+Basic projects using Unity3D for infotainment (for my daughter Alice).
