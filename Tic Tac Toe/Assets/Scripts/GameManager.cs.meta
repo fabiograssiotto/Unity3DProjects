@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9947c774c3dd6ea4ba8bbd225ef11245
+timeCreated: 1427557760
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Cross: {fileID: 173696, guid: 4d500f1aa1be9a841b43e732200d28e5, type: 2}
+  - Nought: {fileID: 118560, guid: 4a1497c29838c994696c0651d020267a, type: 2}
+  - Empty: {fileID: 146484, guid: 92e99d7028036034f871c5aaa40b692b, type: 2}
+  - Bar: {fileID: 187098, guid: be3cc4df930cf6a48bf179f21a07ca2a, type: 2}
+  - CrossBar: {fileID: 128598, guid: c768b7d296de2aa48b0753911c3b449e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
